@@ -8,7 +8,7 @@
 <li><a href="https://drive.google.com/file/d/1fuXWHEldi4xoi3LSZk__qRFU_NDtfvnk/view?usp=sharing" rel="nofollow">Verinin yüklenmesi</a></li>
 <li><a href="https://youtu.be/GlPgCXVQ6o0" rel="nofollow">Verinin okunması</a>
   </br>
-  <a href="https://github.com/TalhaSoftware/MachineLearningTutorials/tree/Veri-%C3%96n-%C4%B0%C5%9Fleme" rel="nofollow">Verinin okunması Python Kodu</a>
+  <a href="https://github.com/TalhaSoftware/MachineLearningTutorials/blob/Veri-%C3%96n-%C4%B0%C5%9Fleme/upload_data.py" rel="nofollow">Verinin okunması Python Kodu</a>
  </li>
   
 <li><a href="https://youtu.be/2zja_UvRxWM" rel="nofollow">Verinin anlaşılması</a></li>
