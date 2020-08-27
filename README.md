@@ -13,7 +13,11 @@
   
 <li><a href="https://youtu.be/2zja_UvRxWM" rel="nofollow">Verinin anlaşılması</a></li>
 <li><a href="https://youtu.be/S_wZjVCGAzg" rel="nofollow">Verinin Bağımlı ve Bağımsız değişkenlerine ayrılması</a></li>
-<li><a href="https://youtu.be/EKp7giVYOLI" rel="nofollow">Verinin Eğitim ve Test kümelerine ayrılması</a></li>
+<li><a href="https://youtu.be/EKp7giVYOLI" rel="nofollow">Verinin Eğitim ve Test kümelerine ayrılması</a>
+</br>
+  <a href="https://github.com/TalhaSoftware/MachineLearningTutorials/blob/Veri-%C3%96n-%C4%B0%C5%9Fleme/train_test_split.py" rel="nofollow">Verinin Eğitim Ve Test Kümelerine Bölünmesi Python Kodu</a>
+  </li>
+
 </ul>
 </li>
 
