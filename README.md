@@ -22,3 +22,20 @@
 </li>
 
 </ul>
+</ol>
+</details>
+
+<details open="">
+  <summary>Makine Öğrenmesine Giriş </summary>
+<ol>
+<li>0x01 | Linear Regression &amp; Giriş
+<ul>
+<li><a href="https://youtu.be/Nz7wb_vxzgM" rel="nofollow">Linear Regression Konu Anlatımı ve Kodlanması</a></li>
+
+
+</ul>
+</li>
+
+</ul>
+</ol>
+</details>
