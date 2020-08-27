@@ -13,6 +13,7 @@
   
 <li><a href="https://youtu.be/2zja_UvRxWM" rel="nofollow">Verinin anlaşılması</a></li>
 <li><a href="https://youtu.be/S_wZjVCGAzg" rel="nofollow">Verinin Bağımlı ve Bağımsız değişkenlerine ayrılması</a></li>
+<li><a href="https://youtu.be/EKp7giVYOLI" rel="nofollow">Verinin Eğitim ve Test kümelerine ayrılması</a></li>
 </ul>
 </li>
 
