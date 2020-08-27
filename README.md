@@ -31,7 +31,7 @@
 <li>0x01 | Linear Regression &amp; Giriş
 <ul>
 <li><a href="https://youtu.be/Nz7wb_vxzgM" rel="nofollow">Linear Regression Konu Anlatımı ve Kodlanması</a></li>
-
+<li><a href="https://youtu.be/E3jBHgkBiWk" rel="nofollow">Linear Regression R2 Score Mantığı ve Kodlanması</a></li>
 
 </ul>
 </li>
