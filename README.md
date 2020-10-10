@@ -42,4 +42,22 @@
 
 </ul>
 </ol>
+
+<ol>
+<li>0x01 | Polynomial Regression &amp; Giriş
+<ul>
+<li><a href="https://youtu.be/2TqzEzYe0iY" rel="nofollow">Polynomial Regression - Dummy Variable Konu Anlatımı ve Kodlanması</a></li>
+<li>
+ <a href="https://github.com/TalhaSoftware/MachineLearningTutorials/blob/Veri-%C3%96n-%C4%B0%C5%9Fleme/r2_score.py" rel="nofollow">Python Kodu</a>
+ </li>
+  
+
+</ul>
+</li>
+
+</ul>
+</ol>
+
+
+
 </details>
