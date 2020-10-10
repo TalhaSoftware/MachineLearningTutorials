@@ -41,7 +41,7 @@
 </li>
 
 </ul>
-</ol>
+
 
 
 <li>0x02 | Polynomial Regression &amp; Giriş
@@ -58,7 +58,7 @@
 </li>
 
 </ul>
-
+</ol>
 
 
 </details>
