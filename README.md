@@ -43,7 +43,7 @@
 </ul>
 </ol>
 
-<ol>
+
 <li>0x02 | Polynomial Regression &amp; Giriş
 <ul>
 <li><a href="https://youtu.be/2TqzEzYe0iY" rel="nofollow">Polynomial Regression - Dummy Variable Konu Anlatımı ve Kodlanması</a></li>
@@ -58,7 +58,6 @@
 </li>
 
 </ul>
-</ol>
 
 
 
